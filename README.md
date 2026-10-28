@@ -7,6 +7,7 @@ The goal of this repo is to document what I learn by completing the exercises.
 
 ## Labs
 
-| Folder            | Topic                      |
-| ----------------- | -------------------------- |
-| `julia_intro/`  | Introduction to Julia  |
+| Folder           | Topic                                        |
+| ---------------- | -------------------------------------------- |
+| `julia_intro/` | Introduction to Julia                        |
+| `monte_carlo/` | Monte Carlo integration, importance sampling |
